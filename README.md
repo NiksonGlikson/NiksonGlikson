@@ -1,7 +1,8 @@
 # 👋 Привет, меня зовут Никита Глинкин.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=gulzar&color=000000A6&width=600&lines=%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82+%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC+%D0%BF%D0%BE+%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%B8+%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA.)](https://git.io/typing-svg)
 
-# ![image](https://user-images.githubusercontent.com/88488320/178150730-7651a5ad-e519-440e-9757-8119792a5cdc.png) Проекты
+# 🤘 Проекты
+
 1. [How to learn](https://github.com/NiksonGlikson/how-to-learn)
 2. [Russian travel](https://github.com/NiksonGlikson/russian-travel)
 3. [Mesto](https://github.com/NiksonGlikson/mesto)
@@ -11,7 +12,8 @@
 7. [Mesto-react-api-full](https://github.com/NiksonGlikson/react-mesto-api-full)
 8. [Diploma-project](https://github.com/NiksonGlikson/movies-explorer-frontend)
 
-## Навыки
+# 💪 Навыки
+
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

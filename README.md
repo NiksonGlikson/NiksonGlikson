@@ -28,7 +28,7 @@
 
 # 💪 Статистика
 
-[![codewars]](https://www.codewars.com/users/NiksonGlikson/badges/large)
+[![codewars](https://www.codewars.com/users/NiksonGlikson/badges/large)](https://www.codewars.com/users/NiksonGlikson/badges/large)   
 
 
 

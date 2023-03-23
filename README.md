@@ -5,6 +5,7 @@
 ### Я frontend разработчик.
 
 🔭 Окончил учебу в Яндекс Практикум.
+🔭 Окончил учебу в Purple school.
 
 🌱 В свободное время изучаю фронтенд, совершенствую свои знания читая книги, статьи и пилю пет проекты.
 
@@ -20,6 +21,7 @@
 6. [Mesto-react-authorization](https://github.com/NiksonGlikson/react-mesto-auth)
 7. [Mesto-react-api-full](https://github.com/NiksonGlikson/react-mesto-api-full)
 8. [Diploma-project](https://github.com/NiksonGlikson/movies-explorer-frontend)
+9. [Timer](https://github.com/NiksonGlikson/test-tasks)
 
 # 💪 Навыки
 

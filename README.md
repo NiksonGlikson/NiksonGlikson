@@ -23,6 +23,7 @@
 7. [Mesto-react-api-full](https://github.com/NiksonGlikson/react-mesto-api-full)
 8. [Diploma-project](https://github.com/NiksonGlikson/movies-explorer-frontend)
 9. [Timer](https://github.com/NiksonGlikson/test-tasks)
+10. [Habbits-tracker](https://github.com/NiksonGlikson/habbit-tracker-vanilla-JS-)
 
 # 💪 Навыки
 
